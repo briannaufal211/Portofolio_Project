@@ -4,6 +4,9 @@
 A Python project that scrapes **used car listings** from [OLX Indonesia](https://www.olx.co.id/) specifically for the **Tangerang** region.  
 It extracts key car details such as title, price, fuel type, transmission, engine capacity, mileage, location, and description, then saves them into **CSV** and **SQLite** formats.
 
+# Project Purpose
+
+The purpose of this project is to collect and analyze used car listing data from OLX Indonesia (Tangerang area). By scraping real-time listing information such as price, brand, mileage, and fuel type, the dataset can be used for market trend analysis, pricing comparison, or data-driven decision-making related to the used car market in Indonesia.
 ---
 
 ## Tech Stack
